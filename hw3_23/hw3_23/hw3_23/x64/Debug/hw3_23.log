@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\user\source\repos\hw3_23\hw3_23\Source.cpp(15,12): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+C:\Users\user\source\repos\hw3_23\hw3_23\Source.cpp(73,48): warning C4474: 'printf': 傳遞給格式字串的引數太多
+      C:\Users\user\source\repos\hw3_23\hw3_23\Source.cpp(73,48):
+      預留位置及其參數需要 2 個 variadic 引數，但卻提供了 3 個
+  
+  hw3_23.vcxproj -> C:\Users\user\source\repos\hw3_23\hw3_23\x64\Debug\hw3_23.exe

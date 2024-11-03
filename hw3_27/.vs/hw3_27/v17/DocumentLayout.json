@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\hw3_27\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E79389A2-F8FE-4B6C-84F6-0202E9ED4FE1}|hw3_27\\hw3_27.vcxproj|C:\\Users\\user\\source\\repos\\hw3_27\\hw3_27\\Source1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E79389A2-F8FE-4B6C-84F6-0202E9ED4FE1}|hw3_27\\hw3_27.vcxproj|solutionrelative:hw3_27\\Source1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source1.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\hw3_27\\hw3_27\\Source1.cpp",
+              "RelativeDocumentMoniker": "hw3_27\\Source1.cpp",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\hw3_27\\hw3_27\\Source1.cpp",
+              "RelativeToolTip": "hw3_27\\Source1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-03T09:31:30.677Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
